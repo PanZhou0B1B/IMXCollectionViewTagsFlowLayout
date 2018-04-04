@@ -1,0 +1,2 @@
+# IMXCollectionViewTagsFlowLayout
+Tag CollectionView Layout
