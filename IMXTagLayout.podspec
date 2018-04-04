@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "IMXTagsFlowLayout"
+  s.name         = "IMXCollectionViewTagsFlowLayout"
   s.version      = "1.0.0"
   s.summary      = "Tag CollectionView Layout"
   s.license      = { :type => "MIT", :file => "LICENSE" }
